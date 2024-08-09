@@ -42,8 +42,7 @@ export default struct PrivacyPolicyDialog{
                     }).borderRadius(24)
                 }
             }.backgroundColor($r('app.color.white')).borderRadius(13).width('80%')
-        }.width('100%')
-        .height('100%').backgroundColor("#4D000000")//黑色背景 透明度约为 30%
+        }.width('100%').height('100%').backgroundColor("#4D000000")//黑色背景 透明度约为 30%
     }
 
     openWebUrl(urlSuffix:string){

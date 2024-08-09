@@ -23,10 +23,10 @@ struct Index {
                 bottom:30
             })
 
-            if(this.showAgreePrivacyPolicy){
+            if(this.showAgreePrivacyPolicy){//通过变量控制隐私政策弹窗是否显示
                 PrivacyPolicyDialog({
-                    cancel:this.onCancel.bind(this),
-                    confirm:this.onAgree.bind(this),
+                    cancel:this.onCancel.bind(this),//取消按钮点击
+                    confirm:this.onAgree.bind(this),//确定按钮点击
                 })
             }
         }.width('100%')
