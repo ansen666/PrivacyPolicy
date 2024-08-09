@@ -5,7 +5,7 @@ import { common } from '@kit.AbilityKit'
 @Entry
 @Component
 struct Index {
-    @State isAgreePrivacyPolicy:boolean=false;
+    @State showAgreePrivacyPolicy:boolean=true;
 
     build() {
         RelativeContainer(){
@@ -23,7 +23,7 @@ struct Index {
                 bottom:30
             })
 
-            if(!this.isAgreePrivacyPolicy){
+            if(this.showAgreePrivacyPolicy){
                 PrivacyPolicyDialog({
                     cancel:this.onCancel.bind(this),
                     confirm:this.onAgree.bind(this),
@@ -38,6 +38,6 @@ struct Index {
     }
 
     onAgree():void {//同意隐私政策
-        this.isAgreePrivacyPolicy = true;
+        this.showAgreePrivacyPolicy = false;
     }
 }
