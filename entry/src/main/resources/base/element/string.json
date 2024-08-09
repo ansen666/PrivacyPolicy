@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    { "name": "privacy_policy_two", "value": "《隐私政策》" },
+    { "name": "simple_privacy_policy", "value": "\n我们非常重视您的隐私和个人信息保护。在您使用的过程中，我们会对您的部分个人信息进行收集和使用。\n1.我们会申请您的设备信息、位置权限、软件安装列表、日志信息等用于平台安全风控及查看附近的用户。\n2.在您使用上传、分享、语音等服务时，我们需要获取您设备的摄像头、麦克风、相册、地理位置、存储空间等以上敏感权限均不会默认或强制开启收集信息。\n3.友盟SDK会收集设备Mac地址，设备序列号用于统计\n4.您使用一键登录登录时，会收集您的SIM卡信息\n5.未经您同意，我们不会出售或共享您的任何信息。您可以查询，更正、删除您的个人信息，我们也提供账户注销、举报方式。" },
+    { "name": "simple_user_policy", "value": "用户协议和隐私政策说明" },
+    { "name": "to_detail_policy", "value": "《查看完整版隐私政策》" },
+    { "name": "agree_privacy_policy", "value": "同意" },
+    { "name": "disagree_privacy_policy", "value": "不同意" },
+    { "name": "continue_disagree_privacy_policy", "value": "仍不同意" },
+    { "name": "exit_app", "value": "退出应用" },
+    { "name": "privacy_policy_title_two", "value": "您需要同意本隐私政策，才能继续使用本App" },
+    { "name": "privacy_policy_title_three", "value": "我们将充分尊重并保护您的隐私，请您放心" },
+    { "name": "simple_privacy_policy_two", "value": "您可再次查看本App《隐私政策》全文" },
+    { "name": "simple_privacy_policy_three", "value": "您可再次查看本App《隐私政策》全文。\\n如果您同意我们的政策内容后，您可以继续使用本App" },
+    { "name": "please_agree_privacy_policy", "value": "请先同意隐私政策" },
+    { "name": "privacy_policy_start", "value": "请您充分阅读并理解" },
+    { "name": "user_agreement_two", "value": "《用户协议》" },
+    { "name": "and", "value": "和" },
+    {
+      "name": "launcher_tip",
+      "value": "替您记住每一个重要的要日"
+    }
+  ]
+}

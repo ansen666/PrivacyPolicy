@@ -1,0 +1,19 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "white",
+      "value": "#ffffff"
+    },
+    {"name": "title_color","value": "#333333"},
+    {"name": "body_color","value": "#666666"},
+    {"name": "other_color","value": "#999999"},
+    {"name": "mainColor","value": "#F1525A"},
+    {"name": "start_main_color","value": "#FF8B59"},
+    {"name": "end_main_color","value": "#F64848"},
+    {"name": "common_gray_bg","value": "#f3f4f5"}
+  ]
+}
